@@ -213,10 +213,10 @@ if __name__=="__main__":
 #################################################
 #  1Hz -- 1.52(-16)a.u. (frequency)         	#
 #  2piHz -- 0.955(-15)a.u. (angular frequency)  #
-#  5V/cm -- 9.73(-10)a.u. (electric field)		#
+#  5V/cm -- 9.73(-10)a.u. (electric field)	#
 #  8.5(-30)Cm -- 1a.u. (electric dipole moment)	#
-#  5.3cm -- 1.0(9)a.u. (distance) 				#
-#  2.42ns -- 1.0(8)a.u. (time)				 	#
+#  5.3cm -- 1.0(9)a.u. (distance) 		#
+#  2.42ns -- 1.0(8)a.u. (time)			#
 #################################################	
 	
 # atomic units
